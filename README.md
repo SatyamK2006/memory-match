@@ -36,7 +36,7 @@ Deployment: GitHub Pages
 ⚙️ **INSTALLATION & SETUP**
 
 1.  Clone this repository  
-    git clone [https://github.com/YOUR-USERNAME/memory-match.git](https://github.com/YOUR-USERNAME/memory-match.git)
+    git clone [https://github.com/YOUR-USERNAME/memory-match.git](https://github.com/SatyamK2006/memory-match.git)
     
 2.  Move into the project directory  
     cd memory-match
@@ -61,23 +61,29 @@ Deployment: GitHub Pages
 
 1.  **Home Screen / Start View**  
     Shows the title, score, timer, and grid layout.
+    <img width="1919" height="914" alt="Screenshot 2025-11-10 095333" src="https://github.com/user-attachments/assets/98e42ced-3deb-4966-b040-be944ad86dbc" />
+
     
 2.  **During Gameplay**  
     Cards flip on click, revealing colorful emojis.  
     Score and move count update in real time.
+    <img width="1919" height="917" alt="Screenshot 2025-11-10 095432" src="https://github.com/user-attachments/assets/27e58d8e-b7eb-4cb5-ba39-24dd370d1c9a" />
+
     
-3.  **Win Screen / Completion**  
+4.  **Win Screen / Completion**  
     Displays a message when all pairs are matched.  
     Option to restart or shuffle cards.
-    
 
-*(You can capture screenshots once deployed and upload them under your repository’s “Images” or “Screenshots” section.)*
+    <img width="1919" height="915" alt="Screenshot 2025-11-10 095715" src="https://github.com/user-attachments/assets/cb1b9202-888a-4607-9582-e0a61097b08b" />
+
+    <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/2f128739-1db3-4fe1-86e2-0f4f230b9176" />
+
 
 * * *
 
 🚀 **LIVE DEMO**  
 Play the live version here once deployed:  
-https://YOUR-USERNAME.github.io/memory-match/
+https://satyamk2006.github.io/memory-match/
 
 * * *
 
