@@ -36,7 +36,7 @@ Deployment: GitHub Pages
 ⚙️ **INSTALLATION & SETUP**
 
 1.  Clone this repository  
-    git clone [https://github.com/YOUR-USERNAME/memory-match.git](https://github.com/SatyamK2006/memory-match.git)
+    git clone [https://github.com/SatyamK2006/memory-match.git](https://github.com/SatyamK2006/memory-match.git)
     
 2.  Move into the project directory  
     cd memory-match
