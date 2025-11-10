@@ -74,8 +74,6 @@ Deployment: GitHub Pages
     Displays a message when all pairs are matched.  
     Option to restart or shuffle cards.
 
-    <img width="1919" height="915" alt="Screenshot 2025-11-10 095715" src="https://github.com/user-attachments/assets/cb1b9202-888a-4607-9582-e0a61097b08b" />
-
     <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/2f128739-1db3-4fe1-86e2-0f4f230b9176" />
 
 
